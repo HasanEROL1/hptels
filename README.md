@@ -1,1 +1,1 @@
-# hptels
+# hotels
